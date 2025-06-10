@@ -81,7 +81,6 @@ The Logistic Regression model utilized in this application was optimized and eva
 ## ✉️ Contact
 
 For any questions or suggestions, feel free to reach out:
-* Suphawit MeeSak
 * Suphawit11@icloud.com
 * https://www.linkedin.com/in/suphawit-meesak/
 
