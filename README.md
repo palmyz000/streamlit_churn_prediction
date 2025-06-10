@@ -71,6 +71,7 @@ Follow these steps to set up and run the application on your local machine:
 
 ![image](https://github.com/user-attachments/assets/1a5f5a49-4d3b-4c9a-9a81-c1725e930da7)
 
+You can try it ==> https://appchurnprediction-dmkyequbtut5j3eyxdqkkt.streamlit.app/
 ## 📈 Model Evaluation Metrics (Logistic Regression)
 
 The Logistic Regression model utilized in this application was optimized and evaluated with the following key metrics:
