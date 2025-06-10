@@ -26,6 +26,8 @@ This repository hosts a Streamlit web application that utilizes a Machine Learni
 * `feature_columns.pkl`: A list of all feature names (columns) in the correct order that the model expects after one-hot encoding.
 * `requirements.txt`: A list of all Python libraries and their versions required to run the application.
 * `.gitignore`: Specifies files and folders that Git should ignore (e.g., `venv/`).
+* `dataset/`: Contains the raw dataset used for this project (e.g., `WA_Fn-UseC_-Telco-Customer-Churn.csv`).
+* `notebook/`: Contains the Jupyter Notebooks used for data exploration, preprocessing, model training, and evaluation.
 
 ## 🚀 How to Run Locally
 
